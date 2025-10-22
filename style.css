@@ -1,0 +1,23 @@
+body{
+    color:rgb(251, 255, 0);
+    background:blue;
+}
+
+heard{
+    border_bottom: solid 2px yellow;
+    padding: 20px;
+    font-sinze: 32px;
+    color: blue;
+}
+
+section{
+    background: orange;
+    padding-bottom:80px;
+    padding-top:80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
