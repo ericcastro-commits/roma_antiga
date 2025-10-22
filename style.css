@@ -1,13 +1,13 @@
 body{
-    color:rgb(240, 12, 12);
+    color:rgb(245, 2, 2);
     background:blue;
 }
 
 heard{
-    border_bottom: solid 2px rgb(236, 221, 9);
+    border_bottom: solid 2px rgb(255, 238, 0);
     padding: 20px;
     font-sinze: 32px;
-    color: blue;
+    color: rgb(2, 2, 2);
 }
 
 section{
