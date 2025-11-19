@@ -1,6 +1,9 @@
 body{
     color:rgb(245, 2, 2);
     background:blue;
+    margin: 0px;
+    fount-family: " bitcount single ink",sans-serif;
+    margin-bottom: 100px;
 }
 
 heard{
@@ -21,8 +24,8 @@ heard{
 .chamada-texto{
     margin-right: 5%;
 }
-img{
-    height: 200px;
+h1{
+    font- size: 40px;
 }
 .categoria-vídeos{
     display: flex;
@@ -32,4 +35,17 @@ img{
 .categoria{
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
+}
+.categoria-videos img{
+    opacity: 0.5;
+    height: 200px;
+}
+.categoria-videos img: hover{
+    opacity: 1.0;
+    border: 1px solid yellow;
+}
+
+.categoria h2{
+    color:green
 }
